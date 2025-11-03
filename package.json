@@ -1,0 +1,13 @@
+{
+  "name": "whatsapp-sheet-automation",
+  "version": "1.0.0",
+  "main": "sendAbsentMessages.js",
+  "scripts": {
+    "start": "node sendAbsentMessages.js"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.7",
+    "qrcode-terminal": "^0.12.0",
+    "whatsapp-web.js": "^1.24.0"
+  }
+}
